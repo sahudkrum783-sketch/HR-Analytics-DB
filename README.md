@@ -1,48 +1,50 @@
 # HR Analytics: Employee Attrition Insights Dashboard 📊  
 
-## 📌 Project Purpose  
-This dashboard provides **comprehensive insights into employee attrition** to help HR teams understand turnover patterns, identify key retention challenges, and design better workforce strategies.  
-It exists to enable **data-driven decision-making** in HR and talent management.  
+## 📌 Project Overview  
+This project presents an **interactive HR analytics dashboard** designed to uncover employee attrition patterns and support **data-driven decision-making** in workforce management.  
+The dashboard helps HR teams identify **who is leaving, why they are leaving, and what actions can be taken to improve retention**.  
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Power BI** – Dashboard development & data visualization  
-- **Excel** – Data cleaning & transformation  
-- **DAX** – Custom calculations (attrition count, attrition rate, averages)  
+- **Power BI** → Dashboard development & interactive visualization  
+- **Excel** → Data cleaning & transformation  
+- **DAX** → Custom calculations (attrition count, attrition rate, averages)  
 
 ---
 
-## 🚀 Features & Highlights  
+## 🚀 Key Features  
 
-### 🔹 Business Problem  
-High employee attrition increases hiring costs, reduces productivity, and disrupts workforce stability.  
-HR teams need visibility into **which employees are leaving, why they are leaving, and what can be done to retain them**.  
+### 🔹 Problem Statement  
+High employee attrition increases hiring costs, reduces productivity, and disrupts organizational stability.  
+HR teams require visibility into **attrition across demographics, job roles, and satisfaction levels** to design better retention strategies.  
 
-### 🔹 Goal of the Dashboard  
-To create an **interactive HR analytics dashboard** that uncovers attrition patterns across demographics, job roles, and satisfaction levels, while providing actionable insights for HR leaders.  
+### 🔹 Objectives  
+- Build a **comprehensive HR analytics dashboard** to analyze attrition  
+- Provide **KPIs, drilldowns, and filters** for deeper insights  
+- Enable HR leaders to make **data-backed workforce decisions**  
 
-### 🔹 Walkthrough of Key Visuals  
+### 🔹 Dashboard Highlights  
 - **KPIs:** Total employees, attrition %, average age, average salary of attrited employees  
 - **Attrition Breakdown:** By age group, gender, education, department, and job role  
-- **Tenure Analysis:** Impact of years at the company on attrition  
-- **Salary vs Attrition:** Trends across salary slabs  
-- **Job Satisfaction & Work-Life Balance:** Correlation with attrition  
+- **Tenure Analysis:** Attrition trends by years at the company  
+- **Salary vs Attrition:** Relationship between pay brackets and turnover  
+- **Satisfaction Metrics:** Impact of job satisfaction & work-life balance on attrition  
 
-### 🔹 Business Impact & Insights  
-- High attrition observed in **entry-level roles and lower salary brackets**  
-- Employees with **shorter tenure** more likely to leave  
-- **Job satisfaction and work-life balance** strongly influence retention  
-- Certain departments and demographics show **disproportionate attrition rates**  
-- Helps HR identify **key retention challenges** and design **targeted interventions**  
+### 🔹 Business Insights  
+- High attrition in **entry-level positions and lower salary groups**  
+- Employees with **shorter tenure** are more likely to leave  
+- **Job satisfaction and work-life balance** are key drivers of retention  
+- Certain departments and demographics show **higher attrition risks**  
+- Enables HR to **identify critical challenges** and design **targeted interventions**  
 
 ---
 
 ## 📸 Dashboard Preview  
-See what the dashboard looks like : https://github.com/sahudkrum783-sketch/HR-Analytics-DB/blob/main/Snapshot%20of%20HRDB.png
+![Dashboard Snapshot](HR-Analytics-DB/Snapshot%20of%20HRDB.png)  
 
 ---
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn : (22) Anushka Sahu | LinkedIn
-- 📧 Email : sahudkrum783@gmail.com  <img width="682" height="936" alt="image" src="https://github.com/user-attachments/assets/84303fef-313c-4e41-81d6-eab146de583d" />
+- 💼 [LinkedIn](https://www.linkedin.com/in/anushka-sahu-22)  
+- 📧 Email: **sahudkrum783@gmail.com**  
