@@ -41,10 +41,10 @@ HR teams require visibility into **attrition across demographics, job roles, and
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard Snapshot](HR-Analytics-DB/Snapshot%20of%20HRDB.png)  
+![Dashboard Snapshot]([HR-Analytics-DB/Snapshot%20of%20HRDB.png](https://github.com/sahudkrum783-sketch/HR-Analytics-DB/blob/main/Snapshot%20of%20HRDB.png))  
 
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/anushka-sahu-22](https://www.linkedin.com/in/anushkasahu783/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/anushkasahu783/) 
 - 📧 Email: **sahudkrum783@gmail.com**  
