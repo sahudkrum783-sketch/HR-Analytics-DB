@@ -46,5 +46,5 @@ HR teams require visibility into **attrition across demographics, job roles, and
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/anushka-sahu-22)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/anushka-sahu-22](https://www.linkedin.com/in/anushkasahu783/))  
 - 📧 Email: **sahudkrum783@gmail.com**  
