@@ -39,8 +39,7 @@ To create an **interactive HR analytics dashboard** that uncovers attrition patt
 ---
 
 ## 📸 Dashboard Preview  
-See what the dashboard looks like : 
-HR-Analytics-DB/Snapshot of HRDB.png at main · sahudkrum783-sketch/HR-Analytics-DB  
+See what the dashboard looks like : https://github.com/sahudkrum783-sketch/HR-Analytics-DB/blob/main/Snapshot%20of%20HRDB.png
 
 ---
 
